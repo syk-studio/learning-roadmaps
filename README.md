@@ -1,3 +1,4 @@
+
 # 🗺️ SYK Studio — Learning Roadmaps
 
 **Your journey from curious beginner to confident developer starts here.**
@@ -18,17 +19,17 @@ Whether you're starting from zero or expanding your existing skills, there's a r
 
 ## 🧭 Available Roadmaps
 
-Roadmaps will be added and improved as the community grows.
+Choose a roadmap and follow its learning path at your own pace.
 
 | Roadmap | Who it's for | Status |
 |---|---|---|
-| 🌐 Web Development | Beginners to advanced learners | Planned |
+| 🌐 [Web Development](web-development/README.md) | Beginners to advanced learners | Available |
 | 🐍 Python Programming | Beginners to intermediate learners | Planned |
 | ☕ Java Programming | Beginners to intermediate learners | Planned |
 | 🗄️ Database Fundamentals | All skill levels | Planned |
 | 🔀 Git and GitHub | Beginners and new contributors | Planned |
 
-**Note:** These roadmaps are planned, not yet published. We'll update their status as the learning materials become available.
+**Note:** Roadmaps marked as Planned are still awaiting their dedicated learning materials. We'll update their status as those resources become available.
 
 ## 📚 How to Use This Repository
 
